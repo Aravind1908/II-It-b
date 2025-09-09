@@ -1,0 +1,126 @@
+Q1 JavaScript is a:
+a) Compiled language
+b) Interpreted language
+c) Both compiled and interpreted
+d) Assembly language
+
+
+
+
+Q2 What is the file extension of JavaScript files?
+a) .js
+b) .java
+c) .jvs
+d) .script
+
+
+Q3. Which console method prints data in the browser’s developer console?
+a) console.log()
+b) print()
+c) echo()
+d) console.print()
+
+
+
+Q4. Which keyword is block-scoped?
+a) var
+b) let
+c) const
+d) Both b & c
+
+
+
+Q5. Which of the following is NOT a JavaScript data type?
+a) Number
+b) Boolean
+c) Float
+d) String
+
+
+Q6. typeof null returns:
+a) null
+b) object
+c) undefined
+d) string
+
+
+
+Q7. Which function is used to convert a string to an integer?
+a) parseInt()
+b) toInteger()
+c) parseFloat()
+d) Number.toInt()
+
+
+Q8. Which operator is used for strict equality?
+a) ==
+b) ===
+c) =
+d) =>
+
+
+Q9. Post-increment means:
+a) Increases before usage
+b) Increases after usage
+c) Decreases value
+d) None
+
+
+Q10. Which statement checks multiple conditions?
+a) if
+b) if-else
+c) else if
+d) switch
+
+
+Q11. Which loop executes at least once?
+a) while
+b) do-while
+c) for
+d) None
+
+
+Q12. What does break do inside a loop?
+a) Skips iteration
+b) Stops loop completely
+c) Continues next iteration
+d) Restarts loop
+
+
+Q13. ES6 arrow function syntax is:
+a) function => {}
+b) () => {}
+c) {} => function
+d) => function()
+
+
+Q14. Variables declared inside a function are:
+a) Global
+b) Local
+c) Block
+d) Static
+
+
+Q15. Math.random() returns:
+a) Always integer
+b) Always 0 or 1
+c) Value between 0 and 1
+d) Value between 1 and 100
+
+
+1.Answer: b
+2.Answer: a
+3.Answer: a
+4.Answer: d
+5.Answer: c
+6.Answer: b
+7.Answer: a
+8.Answer: b
+9.Answer: b
+10.Answer: c
+11.Answer: b
+12.Answer: b
+13.Answer: b
+14.Answer: b
+15.Answer: c
+ 
