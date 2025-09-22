@@ -1,0 +1,48 @@
+Task 1: Even or Odd Checker
+Problem:
+Take a number and check whether it is even or odd.
+Hint: Use modulus operator %.
+============================================================================================
+Task 2: Reverse a String
+Problem:
+Take a string (e.g., "hello") and print it in reverse ("olleh").
+============================================================================================
+Task 3: Find Maximum in an Array
+Problem:
+Given an array [10, 25, 3, 7, 89, 14], find the largest number.
+============================================================================================
+Task 4: Count Vowels in a String
+Problem:
+Write a program to count how many vowels (a, e, i, o, u) are in a given string.
+Hint: Use a loop or filter().
+============================================================================================
+Task 5: Factorial of a Number
+Problem:
+Find the factorial of a given number (e.g., 5! = 5 × 4 × 3 × 2 × 1 = 120).
+Hint: Use a loop.
+============================================================================================
+Task 6: Palindrome Checker
+Problem:
+Check if a string is a palindrome (reads the same forward and backward).
+Example: "madam" → Palindrome, "hello" → Not Palindrome.
+============================================================================================
+Task 7: Find Second Largest Number
+Problem:
+Given an array [12, 45, 7, 89, 23], find the second largest number.
+============================================================================================
+Task 8: Count Digits of a Number
+Problem:
+Take a number (e.g., 12345) and count how many digits it has.
+============================================================================================
+Task 9: Find Smallest Number in an Array
+Problem:
+Given [34, 7, 23, 32, 5, 62], find the smallest number.
+============================================================================================
+Task 10: Count Words in a String
+Problem:
+Given "I love JavaScript", count how many words it has.
+============================================================================================
+
+
+
+
